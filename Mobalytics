@@ -1,4 +1,7 @@
-<!-- Hotjar Tracking Code for https://gabrielmcs20.github.io/testeihc/Mobalytics -->
+<!doctype html>
+<html lang="en-US" class="moba-html home-2021-html">
+  <head>
+  <!-- Hotjar Tracking Code for https://gabrielmcs20.github.io/testeihc/Mobalytics -->
 <script>
     (function(h,o,t,j,a,r){
         h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
@@ -9,10 +12,6 @@
         a.appendChild(r);
     })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
 </script>
-
-<!doctype html>
-<html lang="en-US" class="moba-html home-2021-html">
-  <head>
     <title>Mobalytics - The All-in-One Companion for Every Gamer</title>
 <meta charset="UTF-8">
 
